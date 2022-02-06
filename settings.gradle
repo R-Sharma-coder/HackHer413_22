@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Home Screen"
+rootProject.name = "SignUp"
 include ':app'
